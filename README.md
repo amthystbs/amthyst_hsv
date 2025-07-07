@@ -3,7 +3,7 @@ Beat Saber HitScoreVisualizer configs for fans of amthyst_!
 
 
 # Features:
-###Default:
+### Default:
 Notes:
 - Numbers above 100 display without the 1 in front of them
 - ⚝ symbol on 115
@@ -23,7 +23,7 @@ Chains:
 - 0-49 say "???" and are gray
 - Chain segments display the ⚝ symbol at 80% opacity
 
-###Swings:
+### Swings:
 Notes:
 - Same judgements as default
 - Shows a "-" to the left of the main number if your pre swing is below 30
@@ -34,7 +34,7 @@ Chains:
 - Shows a "-" to the left of the main number if your pre swing is below 30
 - shows a "-" to the right of the main number if your post swing is below 70
 
-###Acc:
+### Acc:
 Notes:
 - Same judgements as default for 106-115
 - Much bigger font size than default
@@ -47,5 +47,5 @@ Chains:
 - 50-74 say "restart" and are gray
 - 0-49 say "???" and are gray
 
-###Golf:
+### Golf:
 - 
