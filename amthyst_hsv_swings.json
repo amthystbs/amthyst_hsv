@@ -1,0 +1,206 @@
+{
+    "judgments": [
+        {
+            "text": "<size=175%>⚝</size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C14</u>%A</size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 114,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C13</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 113,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C12</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 112,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C11</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 111,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C10</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 110,
+            "fade": false
+        },
+        {
+            "text": "%B%C9</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 109,
+            "fade": false
+        },
+        {
+            "text": "%B%C8</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 108,
+            "fade": false
+        },
+        {
+            "text": "%B%C7</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 107,
+            "fade": false
+        },
+        {
+            "text": "%B%C6</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 106,
+            "fade": false
+        },
+        {
+            "text": "%B%C5</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 105,
+            "fade": false
+        },
+        {
+            "text": "%B%C4</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 104,
+            "fade": false
+        },
+        {
+            "text": "%B%C3</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 103,
+            "fade": false
+        },
+        {
+            "text": "%B%C2</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 102,
+            "fade": false
+        },
+        {
+            "text": "%B%C1</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 101,
+            "fade": false
+        },
+        {
+            "text": "<size=80%>%B%Cbro?</u>%A</size>",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 50,
+            "fade": false
+        },
+        {
+            "text": "<size=80%>%B%C???</u>%A</size>",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "<size=150%>⚝</size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 85,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C4%A</u>%A</size>",
+            "color": [1, 0, 1, 1],
+            "threshold": 84,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C3</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 83,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C2</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 82,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C1</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 81,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%B%C1</u>%A</size>",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 80,
+            "fade": false
+        },
+        {
+            "text": "%B%Cmeh</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 70,
+            "fade": true
+        },
+        {
+            "text": "<size=80%>%B%Cbro?</u>%A</size>",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 50,
+            "fade": false
+        },
+        {
+            "text": "<size=80%>%B%C???</u>%A</size>",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "<alpha=#80><size=80%>⚝",
+        "color": [1, 1, 1, 1]
+    },
+    "beforeCutAngleJudgments": [
+        {
+            "threshold": 70,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": " - "
+        }
+    ],
+    "accuracyJudgments": [
+        {
+            "threshold": 15,
+            "text": "<u>"
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "afterCutAngleJudgments": [
+        {
+            "threshold": 30,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": " - "
+        }
+    ],
+    "randomizeBadCutDisplays": false,
+    "badCutDisplays": [
+	    { "text": "Direction!", "type": "WrongDirection", "color": [1, 1, 1, 1] },
+	    { "text": "Color!", "type": "WrongColor", "color": [1, 1, 1, 1] },
+	    { "text": "Kaboom!", "type": "Bomb", "color": [1, 1, 1, 1] }
+    ],
+    "randomizeMissDisplays": false,
+    "missDisplays": [
+	    { "text": "Miss!", "color": [1, 1, 1, 1] }
+    ]
+}

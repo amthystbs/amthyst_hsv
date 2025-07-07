@@ -1,0 +1,111 @@
+{
+    
+    "judgments": [
+        {
+            "text": ";)",
+            "color": [1, 1, 1, 1],
+            "threshold": 115,
+            "fade": false
+        },
+        {
+            "text": "<size=80%>%B%C???</u>%A</size>",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 51,
+            "fade": false
+        },
+        {
+            "text": "<size=80%>%B%Cbro?</u>%A</size>",
+            "color": [0.3, 0.3, 0.3, 1],
+            "threshold": 41,
+            "fade": false
+        },
+        {
+            "text": "%C%B%s</u>%A",
+            "color": [1, 0, 1, 1],
+            "threshold": 21,
+            "fade": false
+        },
+        {
+            "text": "%C%B%s</u>%A",
+            "color": [0.3, 0, 1, 1],
+            "threshold": 11,
+            "fade": false
+        },
+        {
+            "text": "<size=120%>%C%s</u></size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 3,
+            "fade": false
+        },
+        {
+            "text": "<size=175%>⚝</u></size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 2,
+            "fade": false
+        },
+        {
+            "text": "<size=175%>⚝⚝</u></size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 1,
+            "fade": false
+        },
+        {
+            "text": "<size=175%>⚝⚝⚝</size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainHeadJudgments": [
+        {
+            "text": "<size=120%>%s</size>",
+            "color": [1, 1, 1, 1],
+            "threshold": 0,
+            "fade": false
+        }
+    ],
+    "chainLinkDisplay": {
+        "text": "<size=80%>X",
+        "color": [1, 1, 1, 1]
+    },
+    "accuracyJudgments": [
+        {
+            "threshold": 2,
+            "text": ""
+        },
+        {
+            "threshold": 0,
+            "text": "<u>"
+        }
+    ],
+    "beforeCutAngleJudgments": [
+        {
+            "threshold": 31,
+            "text": " - "
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "afterCutAngleJudgments": [
+        {
+            "threshold": 11,
+            "text": " - "
+        },
+        {
+            "threshold": 0,
+            "text": ""
+        }
+    ],
+    "randomizeBadCutDisplays": false,
+    "badCutDisplays": [
+	    { "text": "Direction!", "type": "WrongDirection", "color": [1, 1, 1, 1] },
+	    { "text": "Color!", "type": "WrongColor", "color": [1, 1, 1, 1] },
+	    { "text": "Kaboom!", "type": "Bomb", "color": [1, 1, 1, 1] }
+    ],
+    "randomizeMissDisplays": false,
+    "missDisplays": [
+	    { "text": "Miss!", "color": [1, 1, 1, 1] }
+    ]
+}
