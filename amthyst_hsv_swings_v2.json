@@ -214,7 +214,7 @@
     "beforeCutAngleJudgments": [
         {
             "threshold": 70,
-            "text": " | "
+            "text": "| "
         },
         {
             "threshold": 0,
@@ -234,7 +234,7 @@
     "afterCutAngleJudgments": [
         {
             "threshold": 30,
-            "text": " | "
+            "text": "|"
         },
         {
             "threshold": 0,
