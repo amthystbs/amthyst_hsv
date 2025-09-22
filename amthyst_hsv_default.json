@@ -111,40 +111,88 @@
             "fade": false
         },
         {
-            "text": "<size=120%>%C4</u></size>",
-            "color": [1, 0, 1, 1],
+            "text": "<size=120%>%C14</u></size>",
+            "color": [1, 1, 1, 1],
             "threshold": 84,
             "fade": false
         },
         {
-            "text": "<size=120%>%C3</u></size>",
+            "text": "<size=120%>%C13</u></size>",
             "color": [0.3, 0, 1, 1],
             "threshold": 83,
             "fade": false
         },
         {
-            "text": "<size=120%>%C2</u></size>",
+            "text": "<size=120%>%C12</u></size>",
             "color": [0.3, 0, 1, 1],
             "threshold": 82,
             "fade": false
         },
         {
-            "text": "<size=120%>%C1</u></size>",
+            "text": "<size=120%>%C11</u></size>",
             "color": [0.3, 0, 1, 1],
             "threshold": 81,
             "fade": false
         },
         {
-            "text": "<size=120%>%C1</u></size>",
+            "text": "<size=120%>%C10</u></size>",
             "color": [0.3, 0, 1, 1],
             "threshold": 80,
             "fade": false
         },
         {
-            "text": "%Cmeh</u>",
+            "text": "%C9</u>",
             "color": [1, 0, 1, 1],
-            "threshold": 70,
-            "fade": true
+            "threshold": 79,
+            "fade": false
+        },
+        {
+            "text": "%C8</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 78,
+            "fade": false
+        },
+        {
+            "text": "%C7</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 77,
+            "fade": false
+        },
+        {
+            "text": "%C6</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 76,
+            "fade": false
+        },
+        {
+            "text": "%C5</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 75,
+            "fade": false
+        },
+        {
+            "text": "%C4</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 74,
+            "fade": false
+        },
+        {
+            "text": "%C3</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 73,
+            "fade": false
+        },
+        {
+            "text": "%C2</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 72,
+            "fade": false
+        },
+        {
+            "text": "%C1</u>",
+            "color": [1, 0, 1, 1],
+            "threshold": 71,
+            "fade": false
         },
         {
             "text": "<size=80%>%Cbro?</u></size>",
@@ -160,7 +208,7 @@
         }
     ],
     "chainLinkDisplay": {
-        "text": "<alpha=#80><size=80%>⚝",
+        "text": "<size=80%>⚝",
         "color": [1, 1, 1, 1]
     },
     "accuracyJudgments": [
