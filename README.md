@@ -1,5 +1,5 @@
 # amthysts_hsvs
-Beat Saber HitScoreVisualizer configs for fans of amthyst_ (or anyone else)!
+A repository of Beat Saber HitScoreVisualizer configs made by yours truly!
 
 
 ### amthyst_hsv
